@@ -5,6 +5,6 @@ Dataset for practicing classification -use NBA rookie stats to predict if player
 y = 0 if career years played < 5
 y = 1 if career years played >= 5
 
-Autor: Pavle Dusanic 287/2019
-Profesor: prof. dr Nenad Mitić
+Autor: Pavle Dusanic 287/2019 <br>
+Profesor: prof. dr Nenad Mitić <br>
 Asistent: Marija Eric
